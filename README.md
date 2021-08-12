@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko&hide_title=true)[![Bhoomit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/bhoomit11)
-![ValidationHelper](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko)[![ScopedMediaPicker](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko)](https://github.com/bhoomit11)
-![Bhoomit's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)
+![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko&hide_title=true)[![Bhoomit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/bhoomit11). ![ValidationHelper](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko)[![ScopedMediaPicker](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko)](https://github.com/bhoomit11). ![Bhoomit's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)
 
 ### Connect with me
 
