@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me
+
+[<img align="left" alt="LinkedIn" width="80" src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" />]( https://www.linkedin.com/in/bhoomit)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
+<br />
+
 ![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
