@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 <br />
 
 ![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
