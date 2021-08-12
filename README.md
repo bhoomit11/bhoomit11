@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
 
 <a href="https://github.com/bhoomit11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko" />
 </a>
 <a href="https://github.com/bhoomit11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko" />
 </a>
 
 ### Connect with me
