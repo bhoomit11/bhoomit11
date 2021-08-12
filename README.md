@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/bhoomit11">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko" />
 </a>
-
+<br/>
 
 <a href="https://github.com/bhoomit11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko" />
