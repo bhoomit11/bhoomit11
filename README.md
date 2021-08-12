@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
+
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="30" src="https://bhoomit11.github.io/assets/files/linked_in.ico" />]( https://www.linkedin.com/in/bhoomit)
@@ -34,9 +38,3 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/> </a> </p>
 <br />
-
-![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
-
-
