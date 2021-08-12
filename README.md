@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" alt="LinkedIn" height="80" src="https://bhoomit11.github.io/assets/files/linked_in.ico" />]( https://www.linkedin.com/in/bhoomit)
+[<img align="left" alt="LinkedIn" width="30" src="https://bhoomit11.github.io/assets/files/linked_in.ico" />]( https://www.linkedin.com/in/bhoomit)
 [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
 [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
 <br />
