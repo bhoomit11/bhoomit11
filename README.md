@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/bhoomit11)
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko">
 </p>
 
 <a href="https://github.com/bhoomit11">
