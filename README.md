@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Twitter" width="30" src="https://bhoomit11.github.io/assets/files/twitter.png" />](https://twitter.com/bhoomit_bb)
 [<img align="left" alt="Medium" width="30" src="https://bhoomit11.github.io/assets/files/medium.png" />](https://medium.com/@bhoomit.11)
 <br />
+<br />
 
+### Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://iconarchive.com/download/i98401/dakirby309/simply-styled/OS-Android.ico" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
