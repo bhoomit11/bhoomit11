@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/bhoomit11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko" />
 </a>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko">
-</p>
+![Bhoomit's github stats](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)
 
 ### Connect with me
 
