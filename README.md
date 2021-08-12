@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" width="130">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
