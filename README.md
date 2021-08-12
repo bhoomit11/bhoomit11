@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div id="left">![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)</div>
+![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
  <div id="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
