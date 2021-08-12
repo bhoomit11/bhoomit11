@@ -38,9 +38,3 @@ Here are some ideas to get you started:
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="35" height="35"/> </a> </p>
 <br />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomit11&show_icons=true&locale=en&layout=compact" alt="bhoomit11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&locale=en" alt="bhoomit11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&" alt="bhoomit11" /></p>
