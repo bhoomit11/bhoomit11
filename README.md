@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="30" src="https://bhoomit11.github.io/assets/files/linked_in.ico" />]( https://www.linkedin.com/in/bhoomit)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
-[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
+[<img align="left" alt="Stackoverflow" width="30" src="https://bhoomit11.github.io/assets/files/stackoverflow.png" />](https://stackoverflow.com/users/5372087/bhoomit-bb)
+[<img align="left" alt="Twitter" width="30" src="https://bhoomit11.github.io/assets/files/twitter.png" />](https://twitter.com/bhoomit_bb)
+[<img align="left" alt="Medium" width="30" src="https://bhoomit11.github.io/assets/files/medium.png" />](https://medium.com/@bhoomit.11)
 <br />
 
 ![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko)
