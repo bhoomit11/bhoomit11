@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ### Connect with me
 
