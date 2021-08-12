@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![Bhoomit's github stats](https://github-readme-stats.vercel.app/api?username=bhoomit11&show_icons=true&theme=merko&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomit11&layout=compact&theme=merko)](https://github.com/bhoomit11)
-<a href="https://github.com/bhoomit11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko" />
-</a>
-<a href="https://github.com/bhoomit11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko" />
-</a>
+![Bhoomit's github stats](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ValidationHelper&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=bhoomit11&repo=ScopedMediaPicker&theme=merko)](https://github.com/bhoomit11)
 ![Bhoomit's github stats](https://github-readme-streak-stats.herokuapp.com/?user=bhoomit11&theme=merko)
 
 ### Connect with me
